@@ -18,9 +18,12 @@ export const initialState: AppState = {
     cartDrawerOpen: false,
 };
 
+
+
 /**
  * A simple, observable store of global app state.
  */
+
 @Injectable({
     providedIn: 'root',
 })
